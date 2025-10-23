@@ -56,8 +56,14 @@ People who come to Disney World are tracked through the “Customers” entity. 
 
 <img width="647" height="198" alt="Screenshot 2025-10-22 at 9 52 10 PM" src="https://github.com/user-attachments/assets/6e7e3b3f-9caf-49b2-9125-d9784614b01d" />
 
-<img width="680" height="289" alt="Screenshot 2025-10-22 at 9 52 24 PM" src="https://github.com/user-attachments/assets/397f7d4e-4d52-4d34-bd41-973b82b92bc1" />
+# Queries
+pic of query table
 
-<img width="678" height="409" alt="Screenshot 2025-10-22 at 9 52 43 PM" src="https://github.com/user-attachments/assets/5c0af96e-8394-4034-8d87-5fed7f02b65a" />
+1. Query 1 retrieves the movieID and movieTitle from the Movie table for every movie that does not have a corresponding entry in the Merchandise table. It uses a NOT EXISTS subquery to check whether a given movieID appears in the Merchandise table. If no matching row exists, the movie is included in the results.
 
-<img width="658" height="307" alt="Screenshot 2025-10-22 at 9 53 18 PM" src="https://github.com/user-attachments/assets/9176ab64-ac06-462d-85d9-18f87e4f8434" />
+<img width="565" height="514" alt="Screenshot 2025-10-23 at 5 32 50 PM" src="https://github.com/user-attachments/assets/7259386e-fb31-4456-8af3-745b238e2f1c" />
+
+Query 1 allows managers to identify which movies in the catalog have not yet been leveraged for merchandise opportunities. Since merchandise sales can be a significant revenue stream, spotting movies without merchandise helps decision‑makers recognize untapped potential. These results can guide marketing teams and product developers to prioritize which movies might benefit from new merchandise lines, ensuring that popular or overlooked titles are not missing out on additional revenue. By focusing on movies without merchandise, managers can strategically expand offerings and maximize profitability.
+
+
+
