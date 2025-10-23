@@ -3,7 +3,7 @@ Group 4 MIST 4610 Project #1
 
 # Team Members
 @morganlemmings 
-@melissatran0 
+[@melissatran0](https://github.com/melissatran0) 
 @clarkfarrell2 
 @jasongold3 
 @mrb74060
