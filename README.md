@@ -33,4 +33,30 @@ People who come to Disney World are tracked through the “Customers” entity. 
 <img width="507" height="510" alt="Screenshot 2025-10-22 at 3 46 41 PM" src="https://github.com/user-attachments/assets/f9a008b8-5f18-4400-82f7-616ac6142786" />
 
 # Data Dictionary
+<img width="616" height="281" alt="Screenshot 2025-10-22 at 9 48 30 PM" src="https://github.com/user-attachments/assets/0fc26c74-fc4b-409c-8d7c-3f322fbe5d65" />
 
+<img width="656" height="359" alt="Screenshot 2025-10-22 at 9 48 49 PM" src="https://github.com/user-attachments/assets/eb1cac89-9b66-4b3c-95cd-59333fd38592" />
+
+<img width="646" height="244" alt="Screenshot 2025-10-22 at 9 49 08 PM" src="https://github.com/user-attachments/assets/7582fc06-5227-4470-b323-86ecc0d1d86f" />
+
+<img width="704" height="321" alt="Screenshot 2025-10-22 at 9 49 46 PM" src="https://github.com/user-attachments/assets/b35b7037-3b3b-4385-8d59-b58c460694b9" />
+
+<img width="717" height="449" alt="Screenshot 2025-10-22 at 9 50 03 PM" src="https://github.com/user-attachments/assets/bdb17556-6e8d-4ad8-8e3b-6ef6e38046fe" />
+
+<img width="701" height="448" alt="Screenshot 2025-10-22 at 9 50 17 PM" src="https://github.com/user-attachments/assets/17f5b42b-25a3-41fd-a734-f27036a9413d" />
+
+<img width="677" height="295" alt="Screenshot 2025-10-22 at 9 50 41 PM" src="https://github.com/user-attachments/assets/cfaa3dcf-eaf0-4f1c-b2f2-a3deba93041b" />
+
+<img width="630" height="426" alt="Screenshot 2025-10-22 at 9 50 58 PM" src="https://github.com/user-attachments/assets/154c1034-6a9f-46ad-85b3-586b30b666da" />
+
+<img width="631" height="183" alt="Screenshot 2025-10-22 at 9 51 32 PM" src="https://github.com/user-attachments/assets/b06e984e-3b60-4158-95c8-eb8d80333181" />
+
+<img width="638" height="170" alt="Screenshot 2025-10-22 at 9 51 45 PM" src="https://github.com/user-attachments/assets/44240ac7-1de1-4cbf-a0c6-26063cb1dc98" />
+
+<img width="647" height="198" alt="Screenshot 2025-10-22 at 9 52 10 PM" src="https://github.com/user-attachments/assets/6e7e3b3f-9caf-49b2-9125-d9784614b01d" />
+
+<img width="680" height="289" alt="Screenshot 2025-10-22 at 9 52 24 PM" src="https://github.com/user-attachments/assets/397f7d4e-4d52-4d34-bd41-973b82b92bc1" />
+
+<img width="678" height="409" alt="Screenshot 2025-10-22 at 9 52 43 PM" src="https://github.com/user-attachments/assets/5c0af96e-8394-4034-8d87-5fed7f02b65a" />
+
+<img width="658" height="307" alt="Screenshot 2025-10-22 at 9 53 18 PM" src="https://github.com/user-attachments/assets/9176ab64-ac06-462d-85d9-18f87e4f8434" />
