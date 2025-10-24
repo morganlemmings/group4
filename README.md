@@ -5,7 +5,7 @@ Group 4 MIST 4610 Project #1
 [@morganlemmings](https://github.com/morganlemmings) 
 [@melissatran0](https://github.com/melissatran0) 
 [https://github.com/mrb74060/Disney.git](https://github.com/mrb74060)
-[https://github.com/jasongold3/MIST4610Disney](https://github.com/jasongold3)
+[@jasongold3](https://github.com/jasongold3) 
 [@clarkfarrell2 ](https://github.com/clarkfarrell2)
 
 
