@@ -6,7 +6,8 @@ Group 4 MIST 4610 Project #1
 [@melissatran0](https://github.com/melissatran0) 
 [https://github.com/mrb74060/Disney.git](https://github.com/mrb74060)
 [https://github.com/jasongold3/MIST4610Disney](https://github.com/jasongold3)
-@clarkfarrell2 
+[@clarkfarrell2 ](https://github.com/clarkfarrell2)
+
 
 
 # Problem Description
