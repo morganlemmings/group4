@@ -58,7 +58,8 @@ People who come to Disney World are tracked through the “Customers” entity. 
 <img width="647" height="198" alt="Screenshot 2025-10-22 at 9 52 10 PM" src="https://github.com/user-attachments/assets/6e7e3b3f-9caf-49b2-9125-d9784614b01d" />
 
 # Queries
-pic of query table
+
+<img width="721" height="252" alt="Screenshot 2025-10-26 at 1 15 09 PM" src="https://github.com/user-attachments/assets/e9bf00c8-ee1e-461b-86f7-90cf38474cb0" />
 
 1. Query 1 retrieves the movieID and movieTitle from the Movie table for every movie that does not have a corresponding entry in the Merchandise table. It uses a NOT EXISTS subquery to check whether a given movieID appears in the Merchandise table. If no matching row exists, the movie is included in the results.
 
