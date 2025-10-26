@@ -123,6 +123,7 @@ Query 10 highlights actors who combine both experience and commercial success. B
 
 # Database Information
 Name of the database: ns_Group4
+Procedures are labeled TP_Qx, x being the query number
 
 
 
