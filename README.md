@@ -122,7 +122,7 @@ Query 9 highlights which modern genres (Action, Adventure, Fantasy) have been th
 Query 10 highlights actors who combine both experience and commercial success. By requiring at least three movie appearances, it ensures that only actors with a consistent track record are considered, filtering out one‑hit wonders. The additional condition, that they must have been in a movie performing above the industry’s average box office, identifies actors who have proven their ability to contribute to financially successful projects. This information is valuable for casting directors, producers, and executives who want to minimize risk when selecting talent for future films. It pinpoints actors who not only bring reliability through multiple appearances but also have demonstrated appeal to audiences, making them strong candidates for roles in upcoming high‑budget or strategically important productions.
 
 # Database Information
-Name of the database: ns_Group4
+Name of the database: ns_Group4                                                                                                                                                             
 Procedures are labeled TP_Qx, x being the query number
 
 
